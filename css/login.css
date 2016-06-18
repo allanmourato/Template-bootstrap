@@ -1,0 +1,30 @@
+body {
+
+	min-height: 100vh;
+	
+	background-color: #ccc;
+	background-image: url('https://unsplash.it/g/1500/1200?radom');
+}
+
+.login-form {
+
+	margin-top: 25%;
+
+	padding: 20px 30px;
+	background-color: black;
+	opacity: 0.85;
+
+	color: #fff;
+}
+
+.login-form h1 {
+
+	margin: 0 0 5px;
+}
+
+.login-form h2 {
+
+	margin: 0 0 30px;
+
+	font-size: 1em;
+}
