@@ -21,6 +21,18 @@
 	margin-bottom: 2px;
 }
 
+.cabecalho h1 {
+	margin: 0;
+	font-size: 3em;
+}
+
+.busca {
+	margin-top: 12px;
+}
+
+.dados-os {
+	margin-top: 30px;
+}
 
 @media (max-width: 767px) {
 	.perfil {
@@ -36,5 +48,17 @@
 	.perfil a:hover {
 		text-decoration: none;
 		color: #FFF;
+	}
+
+	.paginacao {
+		text-align: center;
+	}
+
+	.paginacao .pagination {
+		margin-top: 20px;
+	}
+
+	.busca {
+		margin-bottom: 12px;
 	}
 }
